@@ -2,7 +2,7 @@ var pageyes = "<!DOCTYPE html>\n" +
     "<html>\n" +
     "<meta charset=\"UTF-8\">\n" +
     "<head>\n" +
-    "    <title>DID YOU TAKE YOUR VITAMINS?</title>\n" +
+    "    <title>CHOCO HEAVEN</title>\n" +
     "    <script src=\"submit.js\"></script>\n" +
     "    <link rel=\"stylesheet\" href=\"style.css\">\n" +
     "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">\n" +
@@ -23,7 +23,7 @@ var pageno = "<!DOCTYPE html>\n" +
     "<html>\n" +
     "<meta charset=\"UTF-8\">\n" +
     "<head>\n" +
-    "    <title>DID YOU TAKE YOUR VITAMINS?</title>\n" +
+    "    <title>CHOCO HEAVEN</title>\n" +
     "    <script src=\"submit.js\"></script>\n" +
     "    <link rel=\"stylesheet\" href=\"style.css\">\n" +
     "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">\n" +
@@ -32,7 +32,7 @@ var pageno = "<!DOCTYPE html>\n" +
     "<body>\n" +
     "<div class=\"row\">\n" +
     "    <div class=\"col-md-3 col-md-offset-4\">\n" +
-    "        <h1>PAS FORT </h1>\n" +
+    "        <h1>OK cool </h1>\n" +
     "\n" +
     "<img src=giphy.gif>" +
     "    </div>\n" +
